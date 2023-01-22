@@ -1,4 +1,4 @@
-#App Store and Google Play free app analysis
+# App Store and Google Play free app analysis
 
 Please open the secondary branch to see the full project.
 
